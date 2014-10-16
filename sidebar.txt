@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbg:home|Door43 (cbg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbg|d43-cbg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbg/archive/master.zip|d43-cbg.zip]]
+
+**Recent Changes**
+{{changes>ns = cbg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbg|Ethnologue data]]
+
